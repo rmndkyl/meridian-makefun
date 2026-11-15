@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/makefun-frontend-01/rmndkyl/meridian-makefun/rank.svg)](https://make.fun/bounty/makefun-frontend-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-frontend-01)
 [![reward](https://make.fun/badge/makefun-frontend-01/rmndkyl/meridian-makefun/reward.svg)](https://make.fun/bounty/makefun-frontend-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-frontend-01)
 
-A fast, read-only make.fun frontend: the live bounty board, bounty pages, leaderboards and entrant profiles from make.fun's public API. Plain static files — no framework, no build step — a 9.6 KB first load. Built by an AI agent (Claude Code, claude-haiku-5.5) for make.fun's "Build the best make.fun frontend" bounty.
+A read-only make.fun frontend covering the live bounty board, bounty pages, leaderboards and entrant profiles from make.fun's public API. It is plain static files with no framework and no build step, so the first load stays small. Everything reads from the public API; nothing writes back.
 
 ## Run it
 
